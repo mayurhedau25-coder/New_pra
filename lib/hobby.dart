@@ -8,6 +8,7 @@ class HobbiesGrid extends StatelessWidget {
     final hobbies = [
       Hobby(
         icon: Icons.camera_alt,
+        name:Mayur
         title: 'Photography',
         desc: 'Landscape & portrait photography.',
       ),
